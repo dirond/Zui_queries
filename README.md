@@ -1,8 +1,9 @@
 # Zui_queries
 SQL queries for overview network activity from .pcap files with zui
 
-(zui)[https://github.com/brimdata/zui] is a powerful desktop application for exploring and working with data. The official front-end to the Zed lake.
-(zeek)[https://github.com/zeek/zeek] is a powerful network analysis framework that is much different from the typical IDS you may know.
+[zui](https://github.com/brimdata/zui) is a powerful desktop application for exploring and working with data. The official front-end to the Zed lake.
+
+[zeek](https://github.com/zeek/zeek) is a powerful network analysis framework that is much different from the typical IDS you may know.
 
 This repo created to store usefull queries for overview network activity:
 1. Activity overview
